@@ -1,3 +1,8 @@
+# Personal Website
+
+Hi, this is my personal website... currently under construction.
+ETA: February 28th
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
